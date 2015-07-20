@@ -4,7 +4,7 @@
 
 Adds a shortcut to Tree View - Open [ConEmu](http://conemu.github.io/) Here in the context menu
 
-![Context menu entry to open a ConEmu (Windows console emulator)  at the given files path](https://raw.github.com/ziyasa/atom-open-conemu-here/master/screenshot-1.jpg)
+![Context menu entry to open a ConEmu (Windows console emulator)  at the given files path](https://github.com/ziyasal/atom-open-conemu-here/blob/master/screenshot-1.jpg)
 
 
 ##Bugs
