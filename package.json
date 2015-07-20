@@ -1,7 +1,7 @@
 {
   "name": "open-conemu-here",
   "main": "./lib/open-conemu-here",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Adds a shortcut to Tree View - Open ConEmu Here in the context menu",
   "activationEvents": [
     "open-conemu-here:open"
