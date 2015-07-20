@@ -1,6 +1,6 @@
 # Open ConEmu (Windows console emulator) Here package
 
-> ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features.
+> [ConEmu-Maximus5](http://conemu.github.io/) is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features.
 
 Adds a shortcut to Tree View - Open [ConEmu](http://conemu.github.io/) Here in the context menu
 
