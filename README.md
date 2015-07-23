@@ -4,11 +4,14 @@
 
 Adds a shortcut to Tree View - Open [ConEmu](http://conemu.github.io/) Here in the context menu
 
-![Context menu entry to open a ConEmu (Windows console emulator)  at the given files path](https://github.com/ziyasal/atom-open-conemu-here/blob/master/screenshot-1.jpg)
-
+To install;  
 ```shell
 apm install open-conemu-here
 ```
+
+![Context menu entry to open a ConEmu (Windows console emulator)  at the given files path](https://github.com/ziyasal/atom-open-conemu-here/blob/master/screenshot-1.jpg)
+
+
 
 ##Bugs
 If you encounter a bug, performance issue, or malfunction, please add an [Issue](https://github.com/ziyasal/atom-open-conemu-here/issues) with steps on how to reproduce the problem.
