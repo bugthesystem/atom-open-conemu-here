@@ -1,0 +1,22 @@
+'context-menu':
+  '.tree-view.full-menu': [
+    {
+      'label': 'Open ConEmu Here'
+      'command': 'open-conemu-here:open-target'
+    }
+  ]
+  'atom-text-editor': [
+    'label': 'Open ConEmu Here'
+    'command': 'open-conemu-here:open-default'
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      {
+        'label': 'Open ConEmu Here'
+        'command': 'open-conemu-here:open-default'
+      }
+    ]
+  }
+]

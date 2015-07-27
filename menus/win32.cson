@@ -1,3 +1,0 @@
-'context-menu':
-  '.platform-win32 .tree-view':
-    'Open ConEmu Here': 'open-conemu-here:open'
