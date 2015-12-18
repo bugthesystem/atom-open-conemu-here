@@ -53,5 +53,5 @@ module.exports =
       for key, val of process.env
         env[key] = val
       delete env['NODE_ENV'] # Workaround for https://github.com/atom/atom/issues/3099
-      exec "start #{app} /Dir \"#{dirpath}\" #{args}",
+      exec "start \"#{app}\" /Dir \"#{dirpath}\" #{args}",
         env: env
